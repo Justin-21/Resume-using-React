@@ -1,0 +1,112 @@
+.aboutme_text {
+  color: darkslategray;
+  font: smaller;
+  line-height: 22px !important;
+  white-space: pre-line;
+}
+
+/* End of the About me Section  */
+
+/* Timeline Section */
+
+.timeline_title {
+  font-size: 16px !important;
+  font-weight: 500 !important;
+}
+
+.timeline_date {
+  color: darkslategray;
+}
+.timeline_discription {
+  color: gray;
+  font-size: small;
+  margin-top: 6px;
+}
+
+/* End of Timeline Section  */
+
+/* Services Section */
+
+.service {
+  height: 100%;
+  text-align: center;
+}
+
+.service_title {
+  font-size: 16px !important;
+  font-weight: 500 !important;
+  line-height: 35px !important;
+  text-align: center;
+}
+
+.service_discription {
+  color: #989898;
+  border-color: #ffc500 !important;
+  margin-right: 5px !important;
+  text-align: center;
+}
+
+.service_icon > .MuiSvgIcon {
+  font-size: 46px !important;
+  margin-left: 0 !important;
+  font-weight: 300 !important;
+  color: darkslategray !important;
+}
+
+/* End of Service Section */
+
+/* Skills Section */
+
+.skill {
+  border-radius: 8px !important;
+  padding: 20px !important;
+  box-shadow: 0px 0px 48px 0px rgba(4, 6, 4, 0.04) !important;
+  min-height: 186px !important;
+  height: 100px !important ;
+}
+.skills_title {
+  font-size: 14px !important;
+  font-weight: 500 !important;
+  line-height: 35px !important;
+}
+
+.skill_discription {
+  display: flex !important;
+  align-items: center !important;
+  color: #989898 !important;
+  font-weight: 400 !important;
+  line-height: 18px !important;
+}
+
+.skill_dot {
+  border-color: var(--main_color) !important;
+  padding: 2px !important;
+  margin-right: 5px !important;
+}
+
+/* End of skill section */
+
+/* Conact Section  */
+
+.contactinfo-item {
+  font-size: 14px !important;
+  color: #787878;
+  line-height: 34px !important;
+}
+
+.contactinfo-item > span {
+  color: black;
+  font-weight: 500;
+}
+
+.contactinfo_socialsContainer {
+ margin-top: 25px !important;
+}
+
+.contactinfo_social > a > .MuiSvgIcon-root {
+ font-size: 16px !important;
+ margin-right: 10px;
+ color: black;
+}
+
+/* End of Contact Section  */
